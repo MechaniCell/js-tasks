@@ -20,7 +20,7 @@ var maxProfit = function (prices) {
   return max; 
 }
   
-maxProfit([7, 1, 5, 3, 6, 4]);
+maxProfit([7, 1, 5, 3, 6, 4]);   // 5
 
 // Вычисление числа Фибоначчи
 
